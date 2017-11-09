@@ -1,0 +1,7 @@
+package org.mahesh.javabrains;
+
+import javax.servlet.http.HttpServlet;
+
+public class xmlServlet extends HttpServlet {
+
+}
